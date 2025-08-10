@@ -1,2 +1,2 @@
-# Ruhamoto.github.io-ubah-fukkoku
+# ubah-fukkoku
 このサイトは、UBAH - 復刻誰でも版 のサイトです。
